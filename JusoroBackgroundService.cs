@@ -12,7 +12,7 @@ using Microsoft.Extensions.Logging;
 namespace JusoroService
 {
     /// <summary>
-    /// JusoroService를 위한 윈도우 서비스 스케쥴러 및 리눅스 Clone화
+    /// JusoroService를 위한 윈도우 서비스 스케쥴러 및 리눅스 Cron화
     /// TODO : 로그 파일 기록, Thread.Sleep Cycle 최적화 필요, Exception 최적화 필요, Publish 단계 시작 전까지 구현, 리눅스 플랫폼 적용
     ///        로그 파일 기록 1) 지역변수로 인한 _loggerWriter.Close() 메소드 실행됨
     ///        로그 파일 기록 2) StartJusoro 메소드와 StopAsync 메소드에서 각각해야 될지 의문이며, Close() 호출 시기가 명확하지 않음
