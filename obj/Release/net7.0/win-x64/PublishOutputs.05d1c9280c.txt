@@ -1,0 +1,4 @@
+C:\Users\lucia\source\repos\jusoroService\bin\Release\net7.0\win-x64\publish\win-x64\appsettings.Development.json
+C:\Users\lucia\source\repos\jusoroService\bin\Release\net7.0\win-x64\publish\win-x64\appsettings.json
+C:\Users\lucia\source\repos\jusoroService\bin\Release\net7.0\win-x64\publish\win-x64\JusoroService.pdb
+C:\Users\lucia\source\repos\jusoroService\bin\Release\net7.0\win-x64\publish\win-x64\JusoroService.exe

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eludHhDKLyrm6Cffjlj5QWvIdBKbjvzvH+DUaZFi4bBZu2HgHG0jy525w+vDzM3IUgbWCcaEdRyh915FkPrh3Q==",
+  "dgSpecHash": "TbY+m2/9Vu6hHT3wooff5XRF6VgBkfRgZtxxdLhWFW2fqSBYg7jD0611yv6pxmtBGOZ6l2oX9I8ZOS9c7hiVfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\lucia\\source\\repos\\jusoroService\\JusoroService.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,10 @@
     "C:\\Users\\lucia\\.nuget\\packages\\system.diagnostics.eventlog\\7.0.0\\system.diagnostics.eventlog.7.0.0.nupkg.sha512",
     "C:\\Users\\lucia\\.nuget\\packages\\system.serviceprocess.servicecontroller\\7.0.1\\system.serviceprocess.servicecontroller.7.0.1.nupkg.sha512",
     "C:\\Users\\lucia\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\lucia\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\lucia\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.11\\microsoft.aspnetcore.app.runtime.win-x64.7.0.11.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.11.nupkg.sha512",
+    "C:\\Users\\lucia\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.11\\microsoft.netcore.app.runtime.win-x64.7.0.11.nupkg.sha512"
   ],
   "logs": []
 }
